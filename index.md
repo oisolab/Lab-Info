@@ -1,4 +1,8 @@
-## 研究会ホームページへようこそ
+# 大磯研究会ホームページ
+
+
+
+↓以下は編集方法の記載
 
 You can use the [editor on GitHub](https://github.com/oisolab/Lab-Intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
