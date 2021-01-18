@@ -1,4 +1,4 @@
-## 研究会ホームページへようそこ
+## 研究会ホームページへようこそ
 
 You can use the [editor on GitHub](https://github.com/oisolab/Lab-Intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
