@@ -1,0 +1,48 @@
+.body {
+  background-color: #f0f0f0; }
+
+.logo {
+  max-width: 950px;
+  margin: 3rem auto;
+  background-color: #ffffff;
+  padding: 1rem 3rem;
+  font-family: sans-serif;
+  color: #666666;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5); }
+  .logo .h1_child {
+    position: absolute;
+    top: 70px; }
+  .logo h1 {
+    color: #000000;
+    font-size: 30px; }
+
+.main {
+  max-width: 950px;
+  margin: 3rem auto;
+  background-color: #ffffff;
+  padding: 1rem 3rem;
+  font-family: sans-serif;
+  color: #666666;
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
+  font-size: 1em;
+  font-weight: 400;
+  line-height: 1.5; }
+  .main h3 {
+    color: #000000;
+    border-top: solid 1px #666666;
+    border-bottom: solid 1px #666666;
+    line-height: 3.5; }
+  .main p {
+    padding: 1rem 3rem; }
+  .main .conceptimg {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin: 20px auto;
+    text-align: center; }
+  .main .about {
+    display: flex;
+    justify-content: center;
+    align-items: center; }
+    .main .about p {
+      padding: 1rem 3rem; }
