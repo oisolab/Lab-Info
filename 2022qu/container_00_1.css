@@ -50,11 +50,23 @@ body.hpb-layoutset-02 #hpb-skip{
 
 /* �C���i�[ */
 /* this is the most important setting for privacy policy summary*/
-#hpb-inner{
-    margin-left: auto;
-    margin-right: auto;
-    padding: 0;
-    width: 800px;
+    @media (min-width: 800px) {
+        /* 表示領域が800px以上の場合に適用するスタイル */
+        #hpb-inner{
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0;  
+            width: 800px;
+        }
+     }
+     @media (max-width: 799px) {
+        /* 表示領域が800px未満の場合に適用するスタイル */
+        #hpb-inner{
+            margin-left: auto;
+            margin-right: auto;
+            padding: 0;  
+        }
+     }
 }
 
 /* �^�C�g�� */
